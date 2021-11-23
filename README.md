@@ -33,3 +33,32 @@ constante de 50 pesos por cada uno de ellos, sólo vende un tipo de vehículo, c
 12.	Sobre los datos del ejercico anterior imprimir los sueldos de los empleados con más de 5 años de antigüedad
 13.	Ingresar las horas trabajadas por un empleado y su categoría, calcular su sueldo si 
       se sabe que los de la categoría 1 cobran $50, la 2 cobra $ 70 y la 3 cobra $ 80.
+
+### 3 - EJERCICIOS SOBRE CICLOS, CONTADORES y ACUMULADORES
+
+1.	Ingresar 25 números, calcular su promedio
+2.	Ingresar 20 notas y nombres de alumnos, indicar los aplazados ( menos de 4) y el  nombre a quien pertenece esa nota
+3.	Ingresar N sueldos e indicar su suma y su promedio
+4.	Ingresar facturas hasta nro de factura = 0, sumar sus importes, indicar el total gastado y cúales y cuantas superan los $1000.
+5.	Sobre el ejercicio anterior indicar cuántas superan los $ 10000.-
+6.	Sobre el ejercicio anterior indicar cuántas estan entre $ 400 y $ 700 inclusive.
+7.	Ingresar 10 valores, indicar cuántos son positivos, cuántos negativos y cuántos ceros
+8.	Ingresar valores hasta uno = 0, indicar la cantidad de números ingresados y su promedio
+9.	Ingresar nombres y notas de alumnos teniendo en cuenta que la carga finaliza con nota = 11, calcular el promedio, imprimir los aprobados, cuántos estan entre 4 y 6..
+10.	Ingresar la patente y monto de la multa de 50 autos, indicar cuántos montos superan los $ 40 y del total cobrado que porcentaje representa la suma de estos últimos
+11.	Ingresar N valores y calcular promedio de positivos, de negativos y cantidad de ceros
+12.	Ingresar los datos de facturación de una empresa. 
+Número de factura
+Número de artículo
+Cantidad vendida
+Precio unitario
+         Los datos finalizan con numero de factura = 0, cada factura sólo tiene un número
+         de artículo, existen tres artículos
+
+         Se desea saber :
+			Valor de cada factura
+			Facturación total
+			Cuánto se vendio del artículo 1 en cantidad
+			Cuántas facturas mayores de $ 3000 se hicieron
+			Qué porcentaje representa el monto vendido por cada artículo
+                                    sobre el total
